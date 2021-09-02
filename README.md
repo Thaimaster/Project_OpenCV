@@ -27,7 +27,7 @@
 
 -   Install Gitbash
 
-## **III. REFERENCES / CITE**
+## **II. REFERENCES / CITE**
 
 ---
 -   In this project, I use code from:
