@@ -25,8 +25,6 @@
           + library directory: C:\opencv-4.2.0\opencv\build\x64\vc15\lib
           + addition dependencies: C:\opencv-4.2.0\opencv\build\x64\vc15\lib\opencv_world452d.lib
 
--   Install Gitbash
-
 ## **II. REFERENCES / CITE**
 
 ---
