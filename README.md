@@ -2,7 +2,7 @@
 
 
 ---
-##**Tools and apps using:**
+## **Tools and apps using:**
 
 
 *   Visual Studio 2019
@@ -10,8 +10,8 @@
 *Gitbash
 *   C++ complier
 
-##**Setup for Windows 10**:
-###**Setup**
+## **Setup for Windows 10**:
+### **Setup**
 
 
 -   Install Visual Studio 2019
@@ -27,7 +27,7 @@
 
 -   Install Gitbash
 
-##**III. REFERENCES / CITE**
+## **III. REFERENCES / CITE**
 
 ---
 
