@@ -30,13 +30,11 @@
 ## **III. REFERENCES / CITE**
 
 ---
-
-
-1.   In this project, I use code from:
+-   In this project, I use code from:
     - Getting Started with OpenCV: https://learnopencv.com/getting-started-with-opencv/
 
-2.   Document reference:
-    - https://docs.opencv.org/4.2.0/
+-   Document reference:
+    - Document OpenCV: https://docs.opencv.org/4.2.0/
     - Image Filter: https://aicurious.io/posts/2018-09-29-loc-anh-image-filtering/
 
 
